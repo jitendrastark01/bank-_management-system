@@ -1,6 +1,6 @@
 # bank-_management-system
 
-This is a simple Bank Management System implemented in [Core Java]. The system provides functionalities such as creating an account, depositing money, withdrawing money, transferring funds between accounts, and viewing account balance.
+This is a simple Bank Management System implemented in [Core Java]. The system provides functionalities such as creating an account, Login,depositing money, withdrawing money, card Number generat, transferring funds between accounts, and viewing account details.
 
 ## Features
 
