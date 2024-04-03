@@ -1,0 +1,23 @@
+create database dataSystem;
+
+use dataSystem;
+
+
+create table signup(form_no varchar(30),name varchar(30),Fname varchar(30),dob varchar(30),gender varchar(30),email varchar(60),martial varchar(30),city varchar(30),mobile varchar(30),state varchar(50));
+select * from signup;
+
+
+create table signuptwo(form_no varchar(30),religion varchar(30),category varchar(30),income varchar(30),education varchar(30),occupation varchar(60),aadhar_no varchar(30),pan_no varchar(30),existing_account varchar(30));
+select * from signuptwo;
+
+
+create table signupthree(form_no varchar(30),atype varchar(30),card_no varchar(30),pim_no varchar(30),fac varchar(30));
+select* from signupthree;
+
+
+create table login(form_no varchar(30),card_no varchar(30),pin_no varchar(30));
+select * from login;
+
+
+create table bank(pin_no varchar(30),date varchar(30),type varchar(30),amount varchar(30));
+select * from bank;
