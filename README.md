@@ -12,7 +12,7 @@ This is a simple Bank Management System implemented in [Core Java]. The system p
 
 ## Technologies Used
 
-- [Swing,AWT,SQL]
+- [Swing,AWT]
 - [Database technology-MYSQL]
 
 ## Installation
