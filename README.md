@@ -19,7 +19,7 @@ This is a simple Bank Management System implemented in [Core Java]. The system p
 
 1. Clone the repository:
 
-   ```bash
+ ```bash
    
    git clone https://github.com/jitendrastark01/bank-management-system.git
    
